@@ -1,0 +1,35 @@
+html{ font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+
+}
+
+span {
+    color: #949BAF;
+    ;
+
+}
+
+#lordrings {
+    color:royalblue;
+    font-style: italic
+
+}
+
+.grisclarito {
+    color:  rgba(94, 120, 202, 0.9);
+    font-weight: 700;
+}
+
+h1,h3 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{ text-transform: uppercase;
+}
+
+h3{
+    font-size: 26px;
+}
+
+td {text-decoration: none;
+}
